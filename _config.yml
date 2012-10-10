@@ -1,0 +1,5 @@
+sage: true
+source: .
+destination: _site
+lsi: false
+pygments: true
