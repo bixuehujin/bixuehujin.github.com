@@ -1,5 +1,6 @@
-safe: false
+safe: true
 regeneration: true
+auto: true
 source: .
 destination: _site
 lsi: false
