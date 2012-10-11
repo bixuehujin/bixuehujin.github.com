@@ -1,1 +1,6 @@
-console.log('This would be the main JS file.');
+window.onload = function() {
+	var ids = document.getElementsByTagName('a');
+	for(i in ids) {
+		ids[i].target = '_blank'
+	}
+}

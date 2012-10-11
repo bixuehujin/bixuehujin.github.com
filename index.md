@@ -31,19 +31,18 @@ CSS等WEB开发技术。辗转认识伟大的Linux，经多次发行版变更，
 #### chttp (2012-09 -- NOW)
 * 描述：为了学习网络开发，将《Unix网络编程》《Unix环境高级编程》付诸实践。开
   始一个http的项目，只为学习之用。实现过程中参考了glib等开源程序。
-* 项目地址：[github.com/bixuehujin/http](https://github.com/bixuehujin/http)
+* 项目地址：<https://github.com/bixuehujin/http>
 
 #### laptop-tools (2012-08 -- NOW)
 * 描述：Linux下笔记本管理工具软件，实现亮度的自动调节和保存，触摸板设置等功能。
   主要采用C语言开发，其中也涉及到一些Shell和Python脚本。
 * 说明：为解决现Linux发行版亮度调节而开发，先正在进行项目重构，增加新功能。
-* 项目地址：[github.com/bixuehujin/laptop-tools](https://github.com/bixuehujin
-  /laptop-tools)
+* 项目地址：<https://github.com/bixuehujin/laptop-tools>
 
 #### clib (2012.08 -- NOW)
 * 描述：Linux C开发工具函数库，包含自己项目中常用的数据结构、算法、模块的实现。
 * 说明：部分模块实现参考了php-internal，glib等开源程序。
-* 项目地址：[github.com/bixuehujin/clib](https://github.com/bixuehujin/clib)
+* 项目地址：<https://github.com/bixuehujin/clib>
 
 #### 校园分享网站 (2012.01 - 2012.06)
 * 描述：一个服务于大学学生的网站，linux 主要功能包括简易微薄系统，资料分享，兼
@@ -63,8 +62,8 @@ CSS等WEB开发技术。辗转认识伟大的Linux，经多次发行版变更，
 
 * 邮箱：bixuehujin#gmail.com
 * 手机：152 8099 1026
-* github: [github.com/bixuehujin](https://github.com/bixuehujin)
-* 微薄：[weibo.com/bixuehujin](http://weibo.com/bixuehujin)
-* 推特：[twitter.com/bixuehujin](https://twitter.com/bixuehujin)
+* github: <https://github.com/bixuehujin>
+* 微薄：<http://weibo.com/bixuehujin>
+* 推特：<http://twitter.com/bixuehujin>
 
 
