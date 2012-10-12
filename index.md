@@ -11,6 +11,7 @@ JavaScript等WEB开发技术，随后接触Linux，经过多翻折腾到现在�
   本人喜爱各种折腾，研究未知技术。曾折腾过Linux桌面，研究过gtk，gstreamer开发。
 也看一些看过一些优秀的开源程序，从中获益良多。
 
+
 ## 英语能力
   通过英语4级，有较强的英语阅读能力。能够通过 Google 英文搜索和 StackOverflow
 等专业网站查询需要解决的问题；阅读过 UNPV1 APUE ABS 等多本英文原版书籍。
@@ -24,13 +25,14 @@ JavaScript等WEB开发技术，随后接触Linux，经过多翻折腾到现在�
    Yii、Drupal进行软件开发。
 5. 熟悉使用MySQL数据库，能通过SQL操作数据库。
 6. 熟悉JavaScript，HTML，CSS等前端技术，对jQuery有一定的使用经验。
-7. 了解PHP内核，对其部分实现细节有初步了解，能惊醒简单的扩展开发。
+7. 了解PHP内核，对其部分实现细节有初步了解，能进行简单的扩展开发。
 
 ## 个人经历
 
 #### chttp (2012-09 -- NOW)
-* 描述：为了学习网络开发，将《Unix网络编程》《Unix环境高级编程》付诸实践。开
-  始一个http的项目，只为学习之用。实现过程中参考了glib等开源程序。
+* 描述：为了学习网络开发，将《Unix网络编程》付诸实践。开始一个http的项目，旨在
+  学习之用。自己实现HTTP协议，并实现curl的部分功能，在学习socket的同时了解更多
+  HTTP相关的知识。实现过程中也参考了glib等开源程序。
 * 项目地址：<https://github.com/bixuehujin/http>
 
 #### laptop-tools (2012-08 -- NOW)
