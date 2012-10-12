@@ -16,15 +16,15 @@ JavaScript等WEB开发技术，随后接触Linux，经过多翻折腾到现在�
 等专业网站查询需要解决的问题；阅读过 UNPV1 APUE ABS 等多本英文原版书籍。
 
 ## IT技能
-1.熟悉Linux系统，熟悉常用命令，能使用 shell 编写自动化脚本。有两年的Linux桌面
-  使用经验。
-2.熟悉Linux C开发与调试，初步熟悉多线/进程、socket开发。
-3.熟悉Linux下LAMP环境搭建和配置。
-4.熟悉使用PHP语言，能够用OOP，MVC进行软件开发，了解设计模式，使用过ThinkPHP、
-  Yii、Drupal进行软件开发。
-5.熟悉使用MySQL数据库，能通过SQL操作数据库。
-6.熟悉JavaScript，HTML，CSS等前端技术，对jQuery有一定的使用经验。
-7.了解PHP内核，对其部分实现细节有初步了解，能惊醒简单的扩展开发。
+1. 熟悉Linux系统，熟悉常用命令，能使用 shell 编写自动化脚本。有两年的Linux桌面
+   使用经验。
+2. 熟悉Linux C开发与调试，初步熟悉多线/进程、socket开发。
+3. 熟悉Linux下LAMP环境搭建和配置。
+4. 熟悉使用PHP语言，能够用OOP，MVC进行软件开发，了解设计模式，使用过ThinkPHP、
+   Yii、Drupal进行软件开发。
+5. 熟悉使用MySQL数据库，能通过SQL操作数据库。
+6. 熟悉JavaScript，HTML，CSS等前端技术，对jQuery有一定的使用经验。
+7. 了解PHP内核，对其部分实现细节有初步了解，能惊醒简单的扩展开发。
 
 ## 个人经历
 
