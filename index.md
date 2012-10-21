@@ -28,21 +28,21 @@ JavaScript等WEB开发技术，随后接触Linux，经过多翻折腾到现在�
 
 ## 个人经历
 
-### Linuc C 方向
+### Linux C 方向
 
-#### chttp (2012-09 -- NOW)
+#### chttp (2012-09 -- 至今)
 * 描述：为了学习网络开发，将《Unix网络编程》付诸实践。开始一个http的项目，旨在
   学习之用。自己实现HTTP协议，并实现curl的部分功能，在学习socket的同时了解更多
   HTTP相关的知识。实现过程中也参考了glib等开源程序。
 * 项目地址：<https://github.com/bixuehujin/http>
 
-#### laptop-tools (2012-08 -- NOW)
+#### laptop-tools (2012-08 -- 至今)
 * 描述：Linux下笔记本管理工具软件，实现亮度的自动调节和保存，触摸板设置等功能。
   主要采用C语言开发，其中也涉及到一些Shell和Python脚本。
 * 说明：为解决现Linux发行版亮度调节而开发，先正在进行项目重构，增加新功能。
 * 项目地址：<https://github.com/bixuehujin/laptop-tools>
 
-#### clib (2012.08 -- NOW)
+#### clib (2012.08 -- 至今)
 * 描述：Linux C开发工具函数库，包含自己项目中常用的数据结构、算法、模块的实现。
 * 说明：部分模块实现参考了php-internal，glib等开源程序。
 * 项目地址：<https://github.com/bixuehujin/clib>
