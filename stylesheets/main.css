@@ -3,3 +3,9 @@ h3{
 	border-bottom-style: dashed;
 	border-bottom-width: 1px;
 }
+p{
+	text-indent:2em;
+}
+i{
+	font-size:14px;
+}
