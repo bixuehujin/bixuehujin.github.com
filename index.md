@@ -72,6 +72,10 @@ gtk、gstreamer开发等。粗略看过一些优秀的开源程序，从中获�
 * 邮箱：bixuehujin#gmail.com
 * 手机：152 8099 1026
 * github: <https://github.com/bixuehujin>
+<<<<<<< HEAD
 * 微博<http://weibo.com/bixuehujin>
 
+=======
+* 微博：<http://weibo.com/bixuehujin>
+>>>>>>> origin/master
 
