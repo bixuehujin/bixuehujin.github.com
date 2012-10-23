@@ -69,5 +69,5 @@ JavaScript等WEB开发技术，随后接触Linux，经过多翻折腾到现在�
 * 邮箱：bixuehujin#gmail.com
 * 手机：152 8099 1026
 * github: <https://github.com/bixuehujin>
-* 微薄：<http://weibo.com/bixuehujin>
+* 微博：<http://weibo.com/bixuehujin>
 
