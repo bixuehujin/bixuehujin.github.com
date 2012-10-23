@@ -4,12 +4,15 @@ title: PHP或Linux C求职简历
 ---
 
 ## 个人简介
-  2009年至今就读于四川西南科技大学，对互联网喜爱有加。机缘巧合之下开始学习PHP、
-JavaScript等WEB开发技术，随后接触Linux，经过多翻折腾到现在以稳定使用Ubuntu近
-两年。
+  
+  关于背景：就读于四川西南科技大学，非211非985的普通本科大学，专业为信息与计算
+科学属数学系偏计算机方向，将于2013年6月毕业。
+  
+  关于技术：大一期间机缘巧合开始学习PHP，JavaScript等Web开发技术，随后接触Linux
+多翻折腾之下为Linux的魅力所折服，至今使用已近两年。也曾一时，研究过Linux桌面、
+gtk、gstreamer开发等。粗略看过一些优秀的开源程序，从中获益良多。
 
-  本人喜爱各种折腾，研究未知技术。曾折腾过Linux桌面，研究过gtk，gstreamer开发。
-也看一些看过一些优秀的开源程序，从中获益良多。
+  关于学习：一句话，兴趣是最好的导师。
 
 ## 英语能力
   通过英语4级，有较强的英语阅读能力。能够通过 Google 英文搜索和 StackOverflow
@@ -18,7 +21,7 @@ JavaScript等WEB开发技术，随后接触Linux，经过多翻折腾到现在�
 ## IT技能
 1. 熟悉Linux系统，熟悉常用命令，能使用 shell 编写自动化脚本。有两年的Linux桌面
    使用经验。
-2. 熟悉Linux C开发与调试，初步熟悉Linux环境下的多线和网络开发。
+2. 熟悉Linux C开发与调试，初步熟悉Linux环境下的多线程和网络开发。
 3. 熟悉Linux下LAMP环境搭建和配置。
 4. 熟悉使用PHP语言，能够用OOP，MVC进行软件开发，了解设计模式，使用过ThinkPHP、
    Yii、Drupal。
@@ -69,5 +72,6 @@ JavaScript等WEB开发技术，随后接触Linux，经过多翻折腾到现在�
 * 邮箱：bixuehujin#gmail.com
 * 手机：152 8099 1026
 * github: <https://github.com/bixuehujin>
-* 微薄：<http://weibo.com/bixuehujin>
+* 微博<http://weibo.com/bixuehujin>
+
 
