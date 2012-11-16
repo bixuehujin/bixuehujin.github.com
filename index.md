@@ -52,6 +52,15 @@ gtk、gstreamer开发等。粗略看过一些优秀的开源程序，从中获�
 
 ### WEB 开发方面
 
+#### Git + Markdown 内容发布平台 <i>2012.10 至今</i>
+* 描述：受jekyll启发，一个采用Git+Markdown进行管理的内容发布平台。Git作为内容管理
+  工具，Markdown作为内容创作语言。可以用来建立博客，编写书籍和文档。目前正在开发中，
+  顺便也作为毕业设计内容。
+* 说明：项目采用LAMP架构，采用Yii框架开发，前端现使用bootstrap搭建，可部署在
+  openshift 环境。
+* 项目地址：<https://github.com/bixuehujin/gitblog
+* 演示地址：<http://hujin.org> (现在展现的功能还非常有限)
+
 #### 校园分享网站 <i> （2012.01 至 2012.06） </i>
 * 描述：一个服务于大学学生的网站，linux 主要功能包括简易微薄系统，资料分享，兼
   职招聘。
