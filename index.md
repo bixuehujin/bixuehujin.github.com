@@ -1,84 +1,66 @@
 ---
 layout: default
-title: PHP或Linux C求职简历
+title: PHP研发工程师简历
 ---
 
-## 个人简介
+## 关于我
   
-  **关于背景**：就读于四川西南科技大学，非211非985的普通本科大学，
-专业为信息与计算科学属数学系偏计算机方向，将于2013年6月毕业。
-  
-  **关于技术**：大一期间机缘巧合开始学习PHP，JavaScript等Web开发技术，随后接触Linux
-多翻折腾之下为Linux的魅力所折服，至今使用已近两年。也曾因为兴趣，研究过Linux桌面、
-gtk、gstreamer开发等。粗略看过一些优秀的开源程序，从中获益良多。
+  **毕业院校**: 西南科技大学 2009级 本科 
 
-  **关于学习**：一句话，兴趣是最好的导师。
+  **关于技术**: 热爱技术，开源爱好者，善于利用开源软件进行学习，对技术喜欢刨根问底。
 
-## 英语能力
-  通过英语4级，有较强的英语阅读能力。能够通过 Google 英文搜索和 StackOverflow
-等专业网站查询需要解决的问题；阅读过 UNPV1 APUE ABS 等多本英文原版书籍。
-
-## IT技能
-1. 熟悉Linux系统，熟悉常用命令，能使用 shell 编写自动化脚本。有两年的Linux桌面使用经验。
-2. 熟悉Linux C开发与调试，初步熟悉Linux环境下的多线程和网络开发。
-3. 熟悉Linux下LAMP环境搭建和配置。
-4. 熟悉使用PHP语言，能够用OOP，MVC进行软件开发，了解设计模式，使用过Yii、Drupal、
-   ThinkPHP。
-5. 熟悉使用MySQL数据库，能进行简单的SQL优化。
-6. 熟悉JavaScript，HTML，CSS等前端技术，有一定的jQuery使用经验。
-7. 了解PHP内核，对其部分实现细节有初步了解，能进行简单的扩展开发。
-
-## 项目经历
-
-### WEB 开发方面
-
-#### Git + Markdown 内容发布平台 <i>（2012.10 至今）</i>
-* 描述：受jekyll启发，一个采用Git+Markdown进行管理的内容发布平台。Git作为内容管理工具，
-  Markdown作为内容创作语言。可以用来建立博客，编写书籍和文档。目前正在开发中，
-  顺便也作为本科毕业设计内容。
-* 说明：项目采用LAMP架构，采用Yii框架开发，前端现使用bootstrap搭建，可于openshift
-  部署。
-* 项目地址：<https://github.com/bixuehujin/gitblog>
-* 演示地址：<http://hujin.org> (现在展现的功能还非常有限)
-
-#### 校园分享网站 <i> （2012.01 至 2012.06） </i>
-* 描述：一个服务于大学学生的网站，主要功能包括简易微薄系统，资料分享，兼职招聘。
-* 说明：项目基于Drupal开发，负责后台开发，数据库设计，前端HTML/CSS/JavaScript开发。
-  最后因笔记本丢失导致程序数据丢失，开发停止，最终完成了60%的功能。
-* 心得：备份是多么的重要啊！
-
-#### 在线评测系统 <i>（2011.01 至 2011.06）</i>
-* 描述：学校老师课题，教师可以在线出题组成题库，然后可以从题库中抽取题目组成测试试卷供学生测试。
-  同时，提供了简易的论坛系统供学生与老师间的交流。  
-* 说明：学校老师项目，与同学合作开发。我主要负责后台PHP开发和前端JavaScript开发。
-
-### Linux C 方面
-
-#### chttp <i>（2012.09 至 2012.10）</i>
-* 描述：为了学习网络开发，将《Unix网络编程》付诸实践。开始一个http的项目，旨在学习之用。
-  自己实现HTTP协议，并实现curl的部分功能，在学习socket的同时了解更多HTTP相关的知识。
-  实现过程中也参考了glib等开源程序。
-* 项目地址：<https://github.com/bixuehujin/http>
-
-#### laptop-tools <i>（2012.08 至 2012.10）</i>
-* 描述：Linux下笔记本管理工具软件，实现亮度的自动调节和保存，触摸板设置等功能。
-  主要采用C语言开发，其中也涉及到一些Shell和Python脚本。
-* 说明：为解决现Linux发行版亮度调节而开发，先正在进行项目重构，增加新功能。
-* 项目地址：<https://github.com/bixuehujin/laptop-tools>
-
-#### clib <i>（2012.08 至今） </i>
-* 描述：Linux C开发工具函数库，包含自己项目中常用的数据结构、算法、模块的实现。
-* 说明：部分模块实现参考了php-internal，glib等开源程序。
-* 项目地址：<https://github.com/bixuehujin/clib>
-
-## 求职方向
-  PHP或Linux C开发相关
+  **关于学习**：兴趣是最好的导师。
 
 ## 联系方式
 
-* 邮箱：bixuehujin#gmail.com
-* 手机：152 8099 1026
-* github: <https://github.com/bixuehujin>
-* 微博<http://weibo.com/bixuehujin>
+* 邮件: <mail@hujin.me>
+* 手机: 152 8099 1026
+* 微博: <http://weibo.com/bixuehujin>
+* GitHub: <https://github.com/bixuehujin>
+
+## 英语能力
+  通过英语4级，阅读能力良好。流畅阅读各种英文技术资料，现阶段已主要通过英文搜索和学习。
+
+## IT技能
+1. 掌握PHP语言，三年使用经验，熟悉部分内核原理，具备C扩展开发能力。
+2. 掌握OOP，MVC开发模式，掌握Yii框架，一年应用经验，PHPUnit单元测试。
+3. 熟悉 Linux 系统与常用命令，重度Linux用户(2年+)，熟练使用Git。
+4. 熟悉 Linux C 开发与调试。
+5. 熟悉 MySQL数据库，能进行简单的SQL优化；具有 Redis 使用经验。
+6. 熟悉 JavaScript，HTML，CSS等前端技术，一定的 jQuery 和 Twitter bootstrap 使用经验。
+
+## 工作经历
+
+* PHP研发工程师 南京奥勒瑞思软件 <i>(2012年12月 至 2013年10月)</i>
+
+  负责公司旗下项目基础设施的搭建，包括社交系统、后台管理与垂直爬虫服务的设计与开发。期间主要用到的技术有：PHP(Yii 框架)，MySQL，Redis，Python（Twisted）。
+
+
+## 项目经历
+
+* **奥勒瑞思旗下社交项目**  技术负责人 <i>(2012年12月月 至 2013年10月)</i>
+
+  公司社交项目主站，负责网站基础模块、后台系统、社交系统和移动API的设计和开发，并提供相应文档支持。
+
+* **奥勒瑞思旗下爬虫项目**  技术负责人 <i>2013年06月 至 2013年10</i>
+
+  负责公司垂直爬虫服务的设计和开发工作，为主站提供服务。基于Python + Twisted + PHP(reactphp)。
+
+* **gitblog** 发起者 <i>2012年10月 至今</i>
+
+  基于Git和Yii的博客/CMS管理系统，与Git深度集成，提供高效的文章创作管理方式。项目地址：<https://github.com/bixuehujin/gitblog>
+
+* **ecom** 发起者 <i>2012年12月 至今</i>
+
+  Yii 框架通用组件集合，旨在为Yii提供开发Web网站常用的组件，使得开发更加便捷。项目地址: <https://github.com/bixuehujin/ecom>
+
+
+## 开源项目
+
+  * [gitblog](https://github.com/bixuehujin/gitblog)    基于Git+Markdown的博客/CMS系统
+  * [ecom](https://github.com/bixuehujin/ecom)  Yii框架常用组件，开发过程中总结而来
+  * [reactphp-mysql](https://github.com/bixuehujin/reactphp-mysql)  纯PHP实现的 MySQL 异步驱动
+  * [yee](https://github.com/bixuehujin/yee)  Yii2.0 PHP扩展移植，目前仅用于学习
+  * 详细参见 <https://github.com/bixuehujin>
 
 
