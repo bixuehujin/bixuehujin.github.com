@@ -101,9 +101,11 @@ h6 {
 }
 
 p {
-  margin: 10px 0 15px 0;
+  margin: 10px 0px 15px 4px;
 }
-
+li >p {
+  margin-left: 0;
+}
 footer p {
   color: #f2f2f2;
 }
@@ -198,19 +200,22 @@ blockquote {
   padding: 0 0 0 20px;
   border-left: 3px solid #bbb;
 }
-
-ul, ol, dl {
+ul, ol {
+  margin: 0px 0px 9px 25px;
+  padding: 0;
+}
+dl {
   margin-bottom: 15px
 }
 
 ul li {
-  list-style: inside;
-  padding-left: 20px;
+  list-style: disc outside;
+  padding-left: 0px;
 }
 
 ol li {
-  list-style: decimal inside;
-  padding-left: 20px;
+  list-style: decimal outside;
+  padding-left: 0px;
 }
 
 dl dt {
